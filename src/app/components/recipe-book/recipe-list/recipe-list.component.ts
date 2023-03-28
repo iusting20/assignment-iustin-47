@@ -15,6 +15,26 @@ export class RecipeListComponent implements OnInit {
       'some description',
       'https://centraltransylvania.com/wp-content/uploads/2020/03/recette-des-choux-farcis-ou-sarmale-camelia-870x588-1.jpg'
     ),
+    new Recipe(
+      'test food',
+      'some description',
+      'https://centraltransylvania.com/wp-content/uploads/2020/03/recette-des-choux-farcis-ou-sarmale-camelia-870x588-1.jpg'
+    ),
+    new Recipe(
+      'test food',
+      'some description',
+      'https://centraltransylvania.com/wp-content/uploads/2020/03/recette-des-choux-farcis-ou-sarmale-camelia-870x588-1.jpg'
+    ),
+    new Recipe(
+      'test food',
+      'some description',
+      'https://centraltransylvania.com/wp-content/uploads/2020/03/recette-des-choux-farcis-ou-sarmale-camelia-870x588-1.jpg'
+    ),
+    new Recipe(
+      'test food',
+      'some description',
+      'https://centraltransylvania.com/wp-content/uploads/2020/03/recette-des-choux-farcis-ou-sarmale-camelia-870x588-1.jpg'
+    ),
   ];
 
   ngOnInit(): void {}
